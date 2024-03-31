@@ -1,6 +1,6 @@
 import { useMediaQuery } from "react-responsive";
-import Yaarit from "../../public/Yaarit.svg";
-import backicon from "../../public/arrow_back_FILL0_wght400_GRAD0_opsz24.svg";
+import Yaarit from "../public/Yaarit.svg";
+import backicon from "../public/arrow_back_FILL0_wght400_GRAD0_opsz24.svg";
 import { useNavigate } from "react-router";
 import { useEffect, useState } from "react";
 import Axios from "axios";
