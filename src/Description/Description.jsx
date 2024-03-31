@@ -1,5 +1,5 @@
 import { useMediaQuery } from "react-responsive";
-import Yaarit from "../../public/Yaarit.svg?url";
+import Yaarit from "../../public/Yaarit.svg";
 import tickicon from "../../public/Group13.svg";
 import { useNavigate } from "react-router-dom";
 import git from "../../public/git.svg";
