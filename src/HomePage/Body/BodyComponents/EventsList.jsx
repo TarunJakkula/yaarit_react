@@ -1,7 +1,7 @@
 import EventPanel from "./EventPanel";
 import LoadingCard from "./LoadingCard";
 import { useNavigate } from "react-router-dom";
-import forwardIcon from "../../../../public/arrow_forward_FILL0_wght400_GRAD0_opsz24.svg";
+import forwardIcon from "../../../public/arrow_forward_FILL0_wght400_GRAD0_opsz24.svg";
 
 export default function EventsList({
   Events,

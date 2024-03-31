@@ -1,4 +1,4 @@
-import Calender from "../../../../public/Calender.svg";
+import Calender from "../../../public/Calender.svg";
 import { useNavigate } from "react-router-dom";
 
 export default function BlogPanel({ object, isDesktopOrLaptop, isTablet }) {

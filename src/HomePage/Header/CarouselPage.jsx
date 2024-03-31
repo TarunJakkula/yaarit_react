@@ -1,13 +1,13 @@
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from "react-responsive-carousel";
-import LeftIcon from "../../../public/arrow_back_ios_FILL0_wght400_GRAD0_opsz24.svg";
-import RightIcon from "../../../public/arrow_forward_ios_FILL0_wght400_GRAD0_opsz24.svg";
-import Calender from "../../../public/Calender.svg";
+import LeftIcon from "../../public/arrow_back_ios_FILL0_wght400_GRAD0_opsz24.svg";
+import RightIcon from "../../public/arrow_forward_ios_FILL0_wght400_GRAD0_opsz24.svg";
+import Calender from "../../public/Calender.svg";
 import { useNavigate } from "react-router";
 import { useMediaQuery } from "react-responsive";
 import Axios from "axios";
 import { useEffect, useState } from "react";
-import load from "../../../public/Double-Ring-0.8s-231px.svg";
+import load from "../../public/Double-Ring-0.8s-231px.svg";
 
 export default function CarouselPage({
   blog,

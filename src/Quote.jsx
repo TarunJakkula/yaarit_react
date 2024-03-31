@@ -1,4 +1,4 @@
-import Arrow from "../public/Vector.svg";
+import Arrow from "./public/Vector.svg";
 
 export default function Quote() {
   return (

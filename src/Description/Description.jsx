@@ -1,11 +1,11 @@
 import { useMediaQuery } from "react-responsive";
-import Yaarit from "../../public/Yaarit.svg";
-import tickicon from "../../public/Group13.svg";
+import Yaarit from "../public/YaarIt.svg";
+import tickicon from "../public/Group13.svg";
 import { useNavigate } from "react-router-dom";
-import git from "../../public/git.svg";
-import insta from "../../public/insta.svg";
-import linkedin from "../../public/linkedin.svg";
-import tarun from "../../public/tarun.jpg";
+import git from "../public/git.svg";
+import insta from "../public/insta.svg";
+import linkedin from "../public/linkedin.svg";
+import tarun from "../public/tarun.jpg";
 
 function Description() {
   const isDesktopOrLaptop = useMediaQuery({

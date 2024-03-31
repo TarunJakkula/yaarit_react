@@ -34,7 +34,7 @@ img {
 }
 
 .credentials-bg {
-  background-image: url("../public/credentials.svg");
+  background-image: url("./public/credentials.svg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -63,7 +63,7 @@ img {
 }
 
 .description-bg {
-  background-image: url("../public/Group51.svg");
+  background-image: url("./public/Group51.svg");
   background-repeat: no-repeat;
   background-size: cover;
 }

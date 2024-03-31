@@ -1,4 +1,4 @@
-import BackIcon from "../../../public/arrow_back_FILL0_wght400_GRAD0_opsz24.svg";
+import BackIcon from "../../public/arrow_back_FILL0_wght400_GRAD0_opsz24.svg";
 import { useNavigate } from "react-router-dom";
 import { useEffect, useRef } from "react";
 import { useMediaQuery } from "react-responsive";

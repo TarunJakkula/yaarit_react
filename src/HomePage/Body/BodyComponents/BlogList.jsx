@@ -1,7 +1,7 @@
 import BlogPanel from "./BlogPanel";
 import BlogLoadingCard from "./BlogLoadingCard";
 import { useNavigate } from "react-router-dom";
-import forwardIcon from "../../../../public/arrow_forward_FILL0_wght400_GRAD0_opsz24.svg";
+import forwardIcon from "../../../public/arrow_forward_FILL0_wght400_GRAD0_opsz24.svg";
 
 export default function BlogList({
   blogs,

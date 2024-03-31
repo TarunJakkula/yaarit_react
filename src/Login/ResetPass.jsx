@@ -1,5 +1,5 @@
 import { useState } from "react";
-import ArrowLeft from "../../public/arrow_back_FILL0_wght400_GRAD0_opsz24.svg";
+import ArrowLeft from "../public/arrow_back_FILL0_wght400_GRAD0_opsz24.svg";
 import Axios from "axios";
 
 export default function Resetpass({ setForgotPass, email }) {

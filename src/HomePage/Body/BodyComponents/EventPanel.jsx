@@ -1,7 +1,7 @@
 import Axios from "axios";
-import Calender from "../../../../public/Calender.svg";
+import Calender from "../../../public/Calender.svg";
 import { useState } from "react";
-import load from "../../../../public/Double-Ring-0.8s-231px.svg";
+import load from "../../../public/Double-Ring-0.8s-231px.svg";
 
 export default function EventPanel({
   Event,

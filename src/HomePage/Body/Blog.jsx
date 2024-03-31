@@ -1,4 +1,4 @@
-import BackIcon from "../../../public/arrow_back_FILL0_wght400_GRAD0_opsz24.svg";
+import BackIcon from "../../public/arrow_back_FILL0_wght400_GRAD0_opsz24.svg";
 
 import { useLocation, useNavigate } from "react-router-dom";
 import { useEffect, useRef, useState } from "react";
