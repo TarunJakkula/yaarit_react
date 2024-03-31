@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router";
-import Yaarit from "../../public/Yaarit.svg";
+import Yaarit from "../../public/YaarIt.svg";
 import CarouselPage from "./CarouselPage";
 import { useMediaQuery } from "react-responsive";
 
